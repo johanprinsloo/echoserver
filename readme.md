@@ -8,7 +8,7 @@ PUT, POST and DELETE calls return a 201 code
 All calls are Authenticated with basic http authentication
 
 
-The server keep a set number of calls in it shistory and displays them oon a dynamics table.
+The server keeps a set number of calls in it shistory and displays them oon a dynamics table.
 
 
 ##Dependencies
